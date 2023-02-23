@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "John",
+    "LastName": "Newton",
+    "Voted": true,
+    "CandidateId": 1
+  },
+  {
+    "Id": 2,
+    "FirstName": "Priscilla",
+    "LastName": "Buechner",
+    "Voted": true,
+    "CandidateId": 2
+  },
+  {
+    "Id": 3,
+    "FirstName": "Bill",
+    "LastName": "Gates",
+    "Voted": false,
+    "CandidateId": 0
+  }
+]

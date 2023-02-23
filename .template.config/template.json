@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Pawel Pastucha",
+  "classifications": ["Web", "SPA"],
+  "name": "VotingApp-React",
+  "identity": "VotingApp.React.Template",
+  "shortName": "votingapp",
+  "guids": ["ce2018a4-7b99-4a15-bbc7-34558c298d83"],
+  "sourceName": "votingapp"
+}

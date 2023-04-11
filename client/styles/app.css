@@ -1,5 +1,5 @@
 html {
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -28,14 +28,10 @@ html,
 }
 
 a {
-  color: 'white';
+  color: "white";
   text-decoration: none;
 }
 
 a:hover {
   text-decoration: none;
-}
-
-.m-b-15 {
-  margin-bottom: 15px;
 }
